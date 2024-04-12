@@ -1,2 +1,2 @@
-# AI-zig
-Learning basic AI image recognizing with zig
+# digit-recognition
+Learning basic AI digit recognizing with zig
